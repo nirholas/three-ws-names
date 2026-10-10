@@ -1,0 +1,19 @@
+# @three-ws/names
+
+> ENS + SNS name resolution, *.threews.sol subdomain minting, and pay-by-name in one import. The three.ws agent-identity SDK.
+
+@three-ws/names is a JavaScript library from three.ws. Install: `npm install @three-ws/names`.
+
+## Docs
+
+- [README](https://github.com/nirholas/three-ws-names/blob/main/README.md): install, configuration, full reference
+- [Documentation site](https://nirholas.github.io/three-ws-names/): the README as a web page
+- [Full text for LLMs](https://nirholas.github.io/three-ws-names/llms-full.txt): README inlined
+- [AGENTS.md](https://github.com/nirholas/three-ws-names/blob/main/AGENTS.md): guidance for coding agents
+
+## Project
+
+- [Source](https://github.com/nirholas/three-ws-names)
+- [npm](https://www.npmjs.com/package/@three-ws/names)
+- [three.ws](https://three.ws): the platform this is part of
+- [Issues](https://github.com/nirholas/three-ws-names/issues)
