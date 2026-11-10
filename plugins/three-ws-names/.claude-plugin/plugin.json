@@ -6,6 +6,7 @@
     "name": "nirholas"
   },
   "repository": "https://github.com/nirholas/three-ws-names",
+  "homepage": "https://nirholas.github.io/three-ws-names/",
   "license": "Apache-2.0",
   "keywords": [
     "ens",
@@ -13,6 +14,5 @@
     "name-resolution",
     "agent-identity",
     "three-ws"
-  ],
-  "homepage": "https://nirholas.github.io/three-ws-names/"
+  ]
 }
