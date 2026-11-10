@@ -1,0 +1,21 @@
+{
+  "name": "three-ws-names",
+  "owner": {
+    "name": "nirholas"
+  },
+  "description": "Resolve ENS and SNS names, mint threews.sol subdomains and pay by name with the @three-ws/names SDK.",
+  "plugins": [
+    {
+      "name": "three-ws-names",
+      "source": "./",
+      "description": "Resolve ENS and SNS names, mint threews.sol subdomains and pay by name with the @three-ws/names SDK.",
+      "tags": [
+        "ens",
+        "sns",
+        "name-resolution",
+        "agent-identity",
+        "three-ws"
+      ]
+    }
+  ]
+}
