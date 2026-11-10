@@ -7,8 +7,9 @@
   "plugins": [
     {
       "name": "three-ws-names",
-      "source": "./",
+      "source": "./plugins/three-ws-names",
       "description": "Resolve ENS and SNS names, mint threews.sol subdomains and pay by name with the @three-ws/names SDK.",
+      "category": "development",
       "tags": [
         "ens",
         "sns",
